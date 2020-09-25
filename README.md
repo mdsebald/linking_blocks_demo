@@ -1,6 +1,4 @@
-# Linking Blocks Using Registry Demo
-
-## Test code 
+# Linking Blocks Demo
 
 ### Demonstrate linking block values using 
 #### Registry.start_link()
